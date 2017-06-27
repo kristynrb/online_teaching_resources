@@ -12,3 +12,6 @@
 ![alert](https://i.imgur.com/fd37vxW.png)<br>
 You can paste `cmd + v` the link - it will automatically be saved to your clipboard. 
 If you're pasting it into Slack, the link will be displayed when you paste, but the image will automatically be displayed once you send it.
+
+#### Example:
+![screenshot of notes](https://i.imgur.com/lCBNtwF.png)
