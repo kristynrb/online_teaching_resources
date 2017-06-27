@@ -1,5 +1,7 @@
 # Resources for Online Teaching
 
+For teaching online, here are some tools that you can use to help make communication in the remote classroom (Slack) a little more organized.
+
 ## Headers
 There are lots of resources that you'll be giving students during the day, so it's helpful to start your lesson off with a header. This should contain the pertinent information for that lesson and hashtags that will help the students when they search back.
 
@@ -22,16 +24,16 @@ Note: It's also important to surround the header with something that will make i
 
 
 ## Directions for Students
-To help directions stand out in Slack, you can use `<` before your directions. It will add a grey border on the left-hand side of your message.
+To help directions stand out in Slack, you can use `>` before your directions. It will add a grey border on the left-hand side of your message.
 
 ![standout](https://i.imgur.com/3YFazPp.png)
 
 ## Keeping Tabs on Progress
-To get a gauge on student progress, it helps to have the students click on an emoji under your directions to show that they are caught up. This will help you to know when you can move forward with the class / if there are people stuck, etc.
+To get a gauge on student progress, it helps to have the students click on a reaction (emoji connected to your message) under your directions to show that they are caught up. This will help you to know when you can move forward with the class / if there are people stuck, etc.
 
 ![gizmo](https://i.imgur.com/3YFazPp.png)
 
-You can use :thumbsup: or whatever you agree upon, but the important thing to keep in mind is that everyone should use the same reaction so that it's easy to keep count.
+You can use :thumbsup: or whatever your team agrees upon, but the important thing to keep in mind is that everyone should use the same reaction so that it's easy to keep count.
 
 ## Screenshots
 
