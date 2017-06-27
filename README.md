@@ -100,7 +100,7 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 
 - Cohost: Has the ability to mute/unmute all attendees. They can also record videos. There can only be 1 cohost and this access must be given by the host by clicking on a participant name and selecting “Make Cohost”.
 
-
+- Recording: Anyone can be given recording access by the host.
  
-Zoom - Use Outside of Class Hours
-Students can make personal Zoom rooms, but free accounts only allow a room to stay open for 40 minutes. Just alert them of that so that they are prepared to make another one if the meeting lasts longer.
+### Use Outside of Class Hours
+- Students can make personal Zoom rooms, but free accounts only allow a room to stay open for 40 minutes. Just alert them of this restriction so that they are prepared to make another one if the meeting lasts longer than 40 minutes.
