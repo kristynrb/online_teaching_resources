@@ -2,6 +2,8 @@
 
 For teaching online, here are some tools that you can use to help make communication in the remote classroom a little more organized.
 
+![slack](https://a.slack-edge.com/66f9/img/slack_hash_128.png)
+
 ## Slack
 ### Headers
 There are lots of resources that you'll be giving students during the day, so it's helpful to start your lesson off with a header. This should contain the pertinent information for that lesson and hashtags that will help the students when they search back.
@@ -66,6 +68,9 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 **Example**
 ![screenshot of notes](https://i.imgur.com/ByEipdp.png)
 
+<hr>
+
+![zoom](https://inogeni.com/wp-content/uploads/2015/06/zoom-246x300.png)
 
 ## Zoom
 
