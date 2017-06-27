@@ -49,4 +49,4 @@ You can paste `cmd + v` the link - it will automatically be saved to your clipbo
 If you're pasting it into Slack, the link will be displayed when you paste, but the image will automatically be displayed once you send it.
 
 #### Example:
-![screenshot of notes](https://i.imgur.com/ByEipdp.png)
+<![screenshot of notes](https://i.imgur.com/ByEipdp.png)
