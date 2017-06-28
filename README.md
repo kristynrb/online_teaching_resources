@@ -109,3 +109,17 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
  
 ### Use Outside of Class Hours
 - Students can make personal Zoom rooms, but free accounts only allow a room to stay open for 40 minutes. Just alert them of this restriction so that they are prepared to make another one if the meeting lasts longer than 40 minutes.
+
+# General Rules
+
+## Be Consistent
+- If you're teaching a language like JavaScript, be consistent with using semi-colons, single- or double-quotes in your work. Whatever you choose (as a team) to do, keep it consistent.
+
+## Screen Sharing
+- When screensharing, make sure that your browsers and windows are set up how you'd like them to be seen by the students.
+- If you are showing more than one window at a time, try to not have any windows overlapping - position them so that they are next to each other.
+
+## Mute Yourself
+- When you aren't giving instruction, mute yourself! Student don't need to hear your typing or breathing while they're working on their own.
+
+
