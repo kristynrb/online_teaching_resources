@@ -110,6 +110,10 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 ### Use Outside of Class Hours
 - Students can make personal Zoom rooms, but free accounts only allow a room to stay open for 40 minutes. Just alert them of this restriction so that they are prepared to make another one if the meeting lasts longer than 40 minutes.
 
+<hr>
+
+![teacher](https://pbs.twimg.com/profile_images/378800000561692042/a26a14bdfa11b045632e66b05369bc48.png)
+
 # General Rules
 
 ## Be Consistent
