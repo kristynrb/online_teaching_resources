@@ -122,4 +122,5 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 ## Mute Yourself
 - When you aren't giving instruction, mute yourself! Student don't need to hear your typing or breathing while they're working on their own.
 
-
+## Text Editor
+- It's easiest for students to see your code when your editor theme highlights keywords.
