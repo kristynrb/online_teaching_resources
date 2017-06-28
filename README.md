@@ -124,3 +124,6 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 
 ## Text Editor
 - It's easiest for students to see your code when your editor theme highlights keywords.
+
+## Slack Notifications
+- Turn off Slack notifications when teaching or make sure that your Slack is on your primary screen and you screenshare on your secondary monitor. Make sure that you TEST to make sure that you won't get notifications as you instruct.
