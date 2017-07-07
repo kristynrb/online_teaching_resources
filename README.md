@@ -44,7 +44,7 @@ Note: It's also important to surround the header with something that will make i
 <hr>
 
 ### Lesson Framing and Objectives
-As you're giving your lesson, it is important to **visually** show what you're about to do by posting objectives or guideposts for the students. This is equally as importnat as giving verbal queues in the online environment.
+As you're giving your lesson, it is important to **visually** show what you're about to do by posting objectives or guideposts for the students. This is equally as importnat as giving verbal cues in the online environment.
 
 ![objectives](https://i.imgur.com/cqRQWKT.png)
 
