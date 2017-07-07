@@ -52,7 +52,7 @@ As you're giving your lesson, it is important to **visually** show what you're a
 <hr>
 
 ### Directions for Students
-The online can be trickier than the in-person classroom when giving directions. Connectivity issues, distractions, etc. can get in the way of hear verbal directions.
+The online classroom can be trickier than the in-person classroom when giving directions. Connectivity issues, distractions, etc. can get in the way of hearing verbal directions.
 
 It is **very important** to have both **written** and **verbal** instructions _whenever_ you want the students to do something. 
 
