@@ -39,6 +39,12 @@ Zoom: https://generalassembly.zoom.us/j/364840357
 
 Note: It's also important to surround the header with something that will make it stand out (we use equal signs).
 
+### Lesson Framing and Objectives
+As you're giving your lesson, it's as important to post some objectives or guideposts for the students as it is for you to verbally give these queues.
+
+![objectives](https://i.imgur.com/cqRQWKT.png)
+
+
 
 ### Directions for Students
 To help directions stand out in Slack, you can use `>` before your directions. It will add a grey border on the left-hand side of your message.
@@ -47,12 +53,23 @@ To help directions stand out in Slack, you can use `>` before your directions. I
 
 - For mult-line directions, put a `>` in front of each line.
 
+You could also opt to post an image of pre-written directions:
+
+![prewritten](https://i.imgur.com/VJ4sKyC.png)
+
 ### Keeping Tabs on Progress
 To get a gauge on student progress, it helps to have the students click on a reaction (emoji connected to your message) under your directions to show that they are caught up. This will help you to know when you can move forward with the class / if there are people stuck, etc.
 
 ![gizmo](https://i.imgur.com/3YFazPp.png)
 
 You can use :thumbsup: or whatever your team agrees upon, but the important thing to keep in mind is that everyone should use the same reaction so that it's easy to keep count.
+
+### Break up the Task
+It's important to break up prompts for activities. 
+- Have a main prompt for an activity. This is the one that you want everyone to complete.
+- Have a bonus prompt for the fast folks in your class. If everyone doesn't finish this, it's still okay to move on.
+
+![backup tasks](https://i.imgur.com/98n1RZx.png)
 
 ### Screenshots
 
