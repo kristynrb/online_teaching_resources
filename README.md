@@ -53,9 +53,9 @@ To help directions stand out in Slack, you can use `>` before your directions. I
 
 - For mult-line directions, put a `>` in front of each line.
 
-You could also opt to post an image of pre-written directions:
+You could also opt to post an image of pre-written directions (see mac2imgur setup below to quickly make screenshots):
 
-![prewritten](https://i.imgur.com/VJ4sKyC.png)
+![prewritten](https://i.imgur.com/URbeIOt.png)
 
 ### Keeping Tabs on Progress
 To get a gauge on student progress, it helps to have the students click on a reaction (emoji connected to your message) under your directions to show that they are caught up. This will help you to know when you can move forward with the class / if there are people stuck, etc.
