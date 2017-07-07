@@ -52,6 +52,10 @@ As you're giving your lesson, it's as important to post some objectives or guide
 <hr>
 
 ### Directions for Students
+The online can be trickier than the in-person classroom when giving directions. Connectivity issues, distractions, etc. can get in the way of hear verbal directions.
+
+It is **very important** to have both **written** and **verbal** instructions _whenever_ you want the students to do something. 
+
 To help directions stand out in Slack, you can use `>` before your directions. It will add a grey border on the left-hand side of your message.
 
 ![standout](https://i.imgur.com/Iq4o2FF.png)
