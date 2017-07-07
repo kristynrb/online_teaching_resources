@@ -49,7 +49,7 @@ As you're giving your lesson, it's as important to post some objectives or guide
 ### Directions for Students
 To help directions stand out in Slack, you can use `>` before your directions. It will add a grey border on the left-hand side of your message.
 
-![standout](https://i.imgur.com/3YFazPp.png)
+![standout](https://i.imgur.com/Iq4o2FF.png)
 
 - For mult-line directions, put a `>` in front of each line.
 
