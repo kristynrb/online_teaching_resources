@@ -4,6 +4,8 @@ For teaching online, here are some tools that you can use to help make communica
 
 ![slack](https://a.slack-edge.com/66f9/img/slack_hash_128.png)
 
+<hr>
+
 ## Slack
 ### Headers
 There are lots of resources that you'll be giving students during the day, so it's helpful to start your lesson off with a header. This should contain the pertinent information for that lesson and hashtags that will help the students when they search back.
@@ -39,12 +41,15 @@ Zoom: https://generalassembly.zoom.us/j/364840357
 
 Note: It's also important to surround the header with something that will make it stand out (we use equal signs).
 
+<hr>
+
 ### Lesson Framing and Objectives
 As you're giving your lesson, it's as important to post some objectives or guideposts for the students as it is for you to verbally give these queues.
 
 ![objectives](https://i.imgur.com/cqRQWKT.png)
 
 
+<hr>
 
 ### Directions for Students
 To help directions stand out in Slack, you can use `>` before your directions. It will add a grey border on the left-hand side of your message.
@@ -57,6 +62,8 @@ You could also opt to post an image of pre-written directions (see mac2imgur set
 
 ![prewritten](https://i.imgur.com/URbeIOt.png)
 
+<hr>
+
 ### Keeping Tabs on Progress
 To get a gauge on student progress, it helps to have the students click on a reaction (emoji connected to your message) under your directions to show that they are caught up. This will help you to know when you can move forward with the class / if there are people stuck, etc.
 
@@ -64,12 +71,16 @@ To get a gauge on student progress, it helps to have the students click on a rea
 
 You can use :thumbsup: or whatever your team agrees upon, but the important thing to keep in mind is that everyone should use the same reaction so that it's easy to keep count.
 
+<hr>
+
 ### Break up the Task
 It's important to break up prompts for activities. 
 - Have a main prompt for an activity. This is the one that you want everyone to complete.
 - Have a bonus prompt for the fast folks in your class. If everyone doesn't finish this, it's still okay to move on.
 
 ![backup tasks](https://i.imgur.com/98n1RZx.png)
+
+<hr>
 
 ### Screenshots
 
@@ -99,6 +110,8 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 - The host can give permission to others to record.
 - The host can assign a co-host (this person can record and will be defaulted as the host of the original host loses connection).
 
+<hr>
+
 ### Students Participation
 - People may ask about the ‘raise hand’ option, WDIR doesn't use it, but you can decide as a team what you'd like to do.
 
@@ -106,9 +119,12 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 
 - If a student's questions is very specific to their own setup and something needs to be handled immediately, have an IA work with them in a breakout room. NOTE: only do this if you absolutely have to. Doing so will be taking them away from the lesson.
 
+<hr>
 
 ### Connectivity Issues
 - If a student is having connectivity issues, they can shut off their video, but remain present. They should alert the instructor of this issue and then work to get a stronger connection (ethernet cable, call their cable company) for the next day.
+
+<hr>
 
 ### Small Groups (Breakout Rooms)
 - Only the host can create breakout rooms and move in-between them. The general recommendation is that the IA is the host and can set up breakout rooms for an upcoming activity. Make sure to do this manually as automatically creating breakout rooms will send your other host into one of the breakouts.
@@ -119,12 +135,16 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 
 - If you need to get in contact with all of the students while they are in breakout rooms, post your message in Slack.
 
+<hr>
+
 ### Privileges
 - Host: Has the ability to mute/un-mute all attendees. Can also create breakout rooms and record the sessions. There can only be 1 host and this person has can re-assign host to another participant by clicking on "Participants" and then choosing the participant from the list, clicking on the down arrow next to their name, and clicking “Make Host.”
 
 - Cohost: Has the ability to mute/un-mute all attendees. They can also record videos. There can only be 1 cohost and this access must be given by the host by clicking on a participant name and selecting “Make Cohost”.
 
 - Recording: Anyone can be given recording access by the host.
+
+<hr>
 
 ### Use Outside of Class Hours
 - Students can make personal Zoom rooms, but free accounts only allow a room to stay open for 40 minutes. Just alert them of this restriction so that they are prepared to make another one if the meeting lasts longer than 40 minutes.
