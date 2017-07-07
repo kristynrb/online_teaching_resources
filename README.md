@@ -86,8 +86,8 @@ It's important to break up prompts for activities.
 
 <hr>
 
-### Student Participation
-Students responding to prompts in Slack is a normal occurance. To keep your classroom clean, encourage your studnets to **reply** to threads instead of making a new message:
+### Discussions in Slack
+Students responding to prompts, asking questions, or starting new discussions in Slack is a normal occurance. To keep your classroom clean, encourage your studnets to **reply** to threads instead of making a new message:
 
 ![reply example](https://i.imgur.com/5FFajGA.png)
 
