@@ -80,7 +80,7 @@ You can use :thumbsup: or whatever your team agrees upon, but the important thin
 ### Break up the Task
 It's important to break up prompts for activities. 
 - Have a main prompt for an activity. This is the one that you want everyone to complete.
-- Have a bonus prompt for the fast folks in your class. If everyone doesn't finish this, it's still okay to move on.
+- Have bonus prompts for the fast folks in your class. If everyone doesn't finish this, it's still okay to move on.
 
 ![backup tasks](https://i.imgur.com/98n1RZx.png)
 
