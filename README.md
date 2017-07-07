@@ -92,8 +92,10 @@ Students responding to prompts in Slack is a normal occurance. To keep your clas
 ![reply example](https://i.imgur.com/5FFajGA.png)
 
 They can do this by hovering over the message and clicking on the reply bubble:
+
 ![reply](https://i.imgur.com/wn7OJkC.png)
 
+**NOTE:** Be sure to practice what you preach! You should answer questions by replying in a thread.
 <hr>
 
 ### Screenshots
