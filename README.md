@@ -166,7 +166,9 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 - When you aren't giving instruction, mute yourself! Student don't need to hear your typing or breathing while they're working on their own.
 
 ## Text Editor
-- It's easiest for students to see your code when your editor theme highlights keywords.
+- It's easiest for students to see your code when your editor theme has a light background and highlights keywords.
 
-## Slack Notifications
+## Notifications
 - Turn off Slack notifications when teaching or make sure that your Slack is on your primary screen and you screenshare on your secondary monitor. Make sure that you TEST to make sure that you won't get notifications as you instruct.
+
+- You can download the Muzzle app that will silence all of your notifications when you're screensharing: https://muzzleapp.com/
