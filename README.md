@@ -86,6 +86,16 @@ It's important to break up prompts for activities.
 
 <hr>
 
+### Student Participation
+Students responding to prompts in Slack is a normal occurance. To keep your classroom clean, encourage your studnets to **reply** to threads instead of making a new message:
+
+![reply example](https://i.imgur.com/5FFajGA.png)
+
+They can do this by hovering over the message and clicking on the reply bubble:
+![reply](https://i.imgur.com/wn7OJkC.png)
+
+<hr>
+
 ### Screenshots
 
 #### mac2imgur
@@ -176,3 +186,6 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 - Turn off Slack notifications when teaching or make sure that your Slack is on your primary screen and you screenshare on your secondary monitor. Make sure that you TEST to make sure that you won't get notifications as you instruct.
 
 - You can download the Muzzle app that will silence all of your notifications when you're screensharing: https://muzzleapp.com/
+
+## Keep it Clean
+- If you've posted something in Slack that needs to be edited, edit it! If you posted something that should be ignored, delete it. Keep your Slack classroom clean by being purposeful with what you post. 
