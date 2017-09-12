@@ -11,7 +11,7 @@ For teaching online, here are some tools that you can use to help make communica
 There are lots of resources that you'll be giving students during the day, so it's helpful to start your lesson off with a header. This should contain the pertinent information for that lesson and hashtags that will help the students when they search back.
 
 
-#### Start of the Day
+#### Start of the Day (15 minute before class begins)
 ```
 ==========================================
 Good morning! :sunrise_over_mountains:
