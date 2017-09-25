@@ -168,6 +168,8 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 
 <hr>
 
+![relationships](https://assets-cdn.github.com/images/modules/dashboard/bootcamp/octocat_collabocats.png)
+
 # Building Relationships & Your Classroom
 
 It's more difficult to build good rapport and relationships with your students online. We've found that the following things help in that journey:
