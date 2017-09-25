@@ -178,6 +178,8 @@ It's more difficult to build good rapport and relationships with your students o
 
 3. In the 15 minutes before class begins, have a whiteboard open in Zoom where students can draw, write jokes, answers polls that you give them or contribute some links for reading.
 
+![whiteboard](https://i.imgur.com/cSWF12m.png)
+
 4.In the 15 minutes before class begins, share your computer's audio and play music. It's great to have a Spotify playlist where the class can contribute music that they like. Really gets conversations going.
 
 5.Create a 2nd Slack channel for your class to just have fun! We call ours `partytime` and this is the place where they put gifs, videos, and can vent about the frustrations of the day.
