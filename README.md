@@ -143,7 +143,9 @@ If you're pasting it into Slack, the link will be displayed when you paste, but 
 <hr>
 
 ### Small Groups (Breakout Rooms)
-- Only the host can create breakout rooms and move in-between them. The general recommendation is that the IA is the host and can set up breakout rooms for an upcoming activity. Make sure to do this manually as automatically creating breakout rooms will send your other host into one of the breakouts.
+- Only the host can create breakout rooms and move in-between them. If you have more than one instructor in your room, the general recommendation is that the IA is the host and can set up breakout rooms for an upcoming activity. All of the other instructors can be made co-hosts (who will have access to muting students and creating recordings). 
+
+- Choose "manual" when creating rooms as automatically creating breakout rooms will send all the instructors into random breakout rooms as well.
 
 - Before you “Open Breakout Rooms”, alert the students that you will be doing this and say everything that you need to say to the class as a whole. Once you press the button, the students will be gone.
 
