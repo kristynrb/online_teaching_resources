@@ -211,6 +211,18 @@ It's more difficult to build good rapport and relationships with your students o
 ## Notifications
 - Turn off Slack notifications when teaching or make sure that your Slack is on your primary screen and you screenshare on your secondary monitor. Make sure that you TEST to make sure that you won't get notifications as you instruct.
 
+- If you're using a Mac, you can put notifications on "Do Not Disturb" while you're instructing by clicking on the notifications icon in the top-right corner of your screen:<br>
+
+![notifications button](https://i.imgur.com/JEZm6xO.png)
+
+<br>
+Then turn on "Do Not Disturb" (you may need to scroll up on your notifications bar to see this option):<br>
+
+![do not disturb](https://i.imgur.com/UyKODGE.png)
+
+  - You can also use a keyboard shortcut by holding down the `option` button and then clicking on the notification bar:
+  `option` + ![notifications button](https://i.imgur.com/JEZm6xO.png)
+
 - You can download the Muzzle app that will silence all of your notifications when you're screensharing: https://muzzleapp.com/
 
 ## Keep it Clean
